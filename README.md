@@ -100,10 +100,6 @@ Contributions are welcome! Please follow these steps to contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-## 👥 Authors
-
-- **[Your Name](https://github.com/yourusername)** - _Initial work_
-
 ## 📝 Acknowledgments
 
 - This project uses [Mediapipe](https://google.github.io/mediapipe/) for hand detection.
